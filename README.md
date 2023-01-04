@@ -1,24 +1,24 @@
-# [Django Material PRO](https://github.com/app-generator/django-material-dashboard-pro) `Starter`
+# [Django Argon PRO](https://github.com/app-generator/django-argon-dashboard-pro) `Starter`
 
-**Django** starter styled with **Material Design PRO**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL)
+**Django** starter styled with **Argon Design PRO**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
-- 👉 [Django Material PRO](https://django-material-dashboard-pro.onrender.com) - `LIVE Demo` on Render
+- 👉 [Django Argon PRO](https://django-argon-dashboard-pro.onrender.com) - `LIVE Demo` on Render
 - 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
 
 <br />
 
 ## Purchase Product via `GUMROAD`
 
-- 🛒 `Personal License`: **[PAY - $49](https://appseed.gumroad.com/l/django-mat-pro)** (payment link)
+- 🛒 `Personal License`: **[PAY - $49](https://appseed.gumroad.com/l/django-argon-pro)** (payment link)
   - Usage [terms](https://github.com/app-generator/license-personal): `Support & Updates: 6mo`
   
-- 🛒 `StartUp License`: **[PAY - $99](https://appseed.gumroad.com/l/django-mat-pro-startup)** (payment link)
+- 🛒 `StartUp License`: **[PAY - $99](https://appseed.gumroad.com/l/django-argon-pro-startup)** (payment link)
   - Usage [terms](https://github.com/app-generator/license-startup): `Support & Updates: 12mo`
   
-- 🛒 `Company License`: **[PAY - $199](https://appseed.gumroad.com/l/django-mat-pro-company)** (payment link)
+- 🛒 `Company License`: **[PAY - $199](https://appseed.gumroad.com/l/django-argon-pro-company)** (payment link)
   - Usage [terms](https://github.com/app-generator/license-personal): `Support & Updates: Lifetime`, **SaaS** products allowed
   
 <br />
@@ -44,8 +44,8 @@ The product is designed to deliver the best possible user experience with highly
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-material-dashboard-pro.git
-$ cd django-material-dashboard-pro
+$ git clone https://github.com/app-generator/django-argon-dashboard-pro.git
+$ cd django-argon-dashboard-pro
 ```
 
 <br />
@@ -113,21 +113,9 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 
 ## Screenshots
 
-![Theme Material Dashboard PRO - Main (Dark-Mode active), crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695422-7863697f-e6c5-4b08-b395-422074e399df.jpg)
-
-<br />
-
-> [Django Admin Material PRO](https://github.com/app-generator/django-admin-material-pro) - `Calender` Page
-
-![Theme Material Dashboard PRO - Calender Page, crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695529-f4cea8ee-68d9-4658-bb54-110ff530c8da.jpg)
-
-<br />
-
-> [Django Admin Material PRO](https://github.com/app-generator/django-admin-material-pro) - `Automotive` Page
-
-![Theme Material Dashboard PRO - Automotive Page, crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695692-e681b3c8-fca8-4ebf-8803-2795bcd8f7d1.jpg)
+@ToDo
 
 <br />
 
 ---
-[Django Material PRO](https://github.com/app-generator/django-material-dashboard-pro) - Minimal **Django** starter provided by **[AppSeed](https://appseed.us/)**
+[Django Argon PRO](https://github.com/app-generator/django-argon-dashboard-pro) - Minimal **Django** starter provided by **[AppSeed](https://appseed.us/)**
