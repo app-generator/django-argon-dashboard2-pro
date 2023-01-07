@@ -1,6 +1,6 @@
 # [Django Argon2 PRO](https://appseed.us/product/argon-dashboard2-pro/django/)
 
-**Django** starter styled with **Argon2 Design PRO**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL)
+**Django** starter styled with **[Argon2 Design PRO](https://appseed.us/product/argon-dashboard2-pro/django/)**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
