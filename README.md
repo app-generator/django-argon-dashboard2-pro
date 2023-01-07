@@ -19,7 +19,9 @@ The product is designed to deliver the best possible user experience with highly
   - ✅ **Admin section** (reserved for superusers)
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
   - ✅ **All Pages** available in for ordinary users 
-- ✅ `Deployment-Ready` for Render 
+- ✅ `Docker`
+- 🚀 `Deployment` 
+  - `CI/CD` flow via `Render`
 
 <br />
 
