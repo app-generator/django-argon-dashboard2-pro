@@ -1,32 +1,20 @@
-# [Django Argon PRO](https://github.com/app-generator/django-argon-dashboard-pro) `Starter`
+# [Django Argon2 PRO](https://appseed.us/product/argon-dashboard2-pro/django/)
 
-**Django** starter styled with **Argon Design PRO**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL)
+**Django** starter styled with **Argon2 Design PRO**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
-- 👉 [Django Argon PRO](https://django-argon-dashboard-pro.onrender.com) - `LIVE Demo` on Render
+- 🛒 [Django Argon2 PRO](https://appseed.us/product/material-dashboard2-pro/django/) - `Product page` (contains payment links)
+- 👉 [Django Argon2 PRO](https://django-argon-dashboard-pro.onrender.com) - `LIVE Demo` on Render
 - 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
 
-<br />
-
-## Purchase Product via `GUMROAD`
-
-- 🛒 `Personal License`: **[PAY - $49](https://appseed.gumroad.com/l/django-argon-pro)** (payment link)
-  - Usage [terms](https://github.com/app-generator/license-personal): `Support & Updates: 6mo`
-  
-- 🛒 `StartUp License`: **[PAY - $99](https://appseed.gumroad.com/l/django-argon-pro-startup)** (payment link)
-  - Usage [terms](https://github.com/app-generator/license-startup): `Support & Updates: 12mo`
-  
-- 🛒 `Company License`: **[PAY - $199](https://appseed.gumroad.com/l/django-argon-pro-company)** (payment link)
-  - Usage [terms](https://github.com/app-generator/license-personal): `Support & Updates: Lifetime`, **SaaS** products allowed
-  
 <br />
 
 ## Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ `Design`: [Django Theme Material](https://github.com/app-generator/django-admin-material-pro) - `PRO Version`
+- ✅ `Design`: [Django Theme Argon2](https://github.com/app-generator/django-admin-argon2-pro) - `PRO Version`
 - ✅ `Sections` covered by the design:
   - ✅ **Admin section** (reserved for superusers)
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
@@ -35,7 +23,7 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-![Material Dashboard BS5 - Modern Dashboard design by Creative-Tim.](https://user-images.githubusercontent.com/51070104/209104783-22f04139-8919-457c-b21d-7383d57f07b1.png)
+![Argon Dashboard 2 PRO - Charts Page (Premium Bootstrap 5 Design)](https://user-images.githubusercontent.com/51070104/211157993-fd439b20-6117-4e02-b98c-9123866660e2.jpg)
 
 <br />
 
@@ -44,8 +32,8 @@ The product is designed to deliver the best possible user experience with highly
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-argon-dashboard-pro.git
-$ cd django-argon-dashboard-pro
+$ git clone https://github.com/app-generator/django-argon-dashboard2-pro.git
+$ cd django-argon-dashboard2-pro
 ```
 
 <br />
@@ -113,9 +101,21 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 
 ## Screenshots
 
-@ToDo
+![Argon Dashboard 2 PRO - Automotive (Premium Bootstrap 5 Design).](https://user-images.githubusercontent.com/51070104/211158013-fea76b79-bb54-4066-a617-5ec3b4b6ec42.jpg)
+
+<br />
+
+> [Django Argon2 PRO](https://appseed.us/product/argon-dashboard2-pro/django/) - `Charts` Page
+
+![Argon Dashboard 2 PRO - Charts (Premium Bootstrap 5 Design).](https://user-images.githubusercontent.com/51070104/211158055-f29b86dd-0119-433c-af02-5bb41c041049.jpg)
+
+<br />
+
+> [Django Argon2 PRO](https://appseed.us/product/argon-dashboard2-pro/django/) - `eCommerce` Product Page
+
+![Argon Dashboard 2 PRO - eCommerce (Premium Bootstrap 5 Design).](https://user-images.githubusercontent.com/51070104/211158098-afc2b3a6-0c2e-47ea-80d1-c26db0e80da1.jpg)
 
 <br />
 
 ---
-[Django Argon PRO](https://github.com/app-generator/django-argon-dashboard-pro) - Minimal **Django** starter provided by **[AppSeed](https://appseed.us/)**
+[Django Argon2 PRO](https://appseed.us/product/argon-dashboard2-pro/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
