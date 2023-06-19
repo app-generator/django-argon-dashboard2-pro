@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.2] 2023-06-19
+### Changes
+
+- Bump UI Version: `v1.0.5`
+
 ## [1.0.1] 2023-06-13
 ### Changes
 
