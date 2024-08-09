@@ -24,7 +24,7 @@ The product is designed to deliver the best possible user experience with highly
 - i18n (internationalization) 
 - `Docker`
 
-![Argon Dashboard 2 PRO - Charts Page (Premium Bootstrap 5 Design)](https://github.com/app-generator/flask-argon-dashboard2-pro/assets/51070104/168056b7-0886-44ca-8bda-0ae8e76d9076)
+![Argon Dashboard 2 PRO - Charts Page (Premium Bootstrap 5 Design)](https://github.com/user-attachments/assets/e2bca541-ed94-4369-8ab7-361a7f112e69)
 
 <br />
 
