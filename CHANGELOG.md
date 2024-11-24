@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.5] 2024-11-24
+### Changes
+
+- Update RM Links
+  - [Django Argon Dashboard PRO](https://app-generator.dev/product/argon-dashboard-pro/django/) - Product Page
+  - [Django Argon Dashboard PRO](https://app-generator.dev/docs/products/django/argon-dashboard-pro/index.html) - Documentation
+
+
 ## [1.0.4] 2024-03-04
 ### Changes
 
